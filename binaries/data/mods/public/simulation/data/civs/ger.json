@@ -2,7 +2,7 @@
 	"Code": "ger",
 	"Culture": "ger",
 	"Name": "Germans",
-	"Emblem": "session/portraits/emblems/emblem_celts.png",
+	"Emblem": "session/portraits/emblems/emblem_ger_alt.png",
 	"History": "The Germans were the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
 	"Music":[
 			{"File":"Celtic_Pride.ogg", "Type":"peace"},
@@ -15,13 +15,13 @@
 	[
 		{
 			"Name": "Germans",
-			"Description": "The Germans of mainland Europe.",
+			"Description": "The Germanic tribes of mainland Europe.",
 			"Technologies":
 			[
 				{
 					"Name": "Schlacht im Teutoburger Wald",
-					"History": "3 legions gone",
-					"Description": "A set amount of metal from every unit destroyed."
+					"History": "The Germans employed successful hit and run tactics against the Romans. Result: 3 legions gone",
+					"Description": "Infantry movement speed +10%."
 				}
 			],
 			"Heroes":
@@ -31,7 +31,7 @@
 					"Class": "",
 					"Armament": "",
 					"Emblem": "",
-					"History": "<<forest>>."
+					"History": "In the battle of the Teutoburg Forest Arminius led an alliance of Germanic tribes to victory over the Romans. Romans lost three legions in the battle."
 				}
 			]
 		}

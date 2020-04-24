@@ -1,0 +1,15 @@
+{
+	"genericName": "Schlacht im Teutoburger Wald",
+    "description": "The Germans employed successful hit and run tactics against the Romans",
+    "cost": { "food": 100, "wood": 100, "stone":0, "metal": 0 },
+    "requirements": { "all": [{ "tech": "phase_town"},{"civ": "ger"}]},
+    "requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "sword.png",
+	"researchTime": 40,
+	"tooltip": "+10% Movement speed for all units.",
+	"modifications": [
+		{ "value": "UnitMotion/WalkSpeed", "add": 0.1}
+    ],
+    "affects": ["Unit"],
+    "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

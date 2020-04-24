@@ -13,6 +13,11 @@
   <Obstruction>
     <Static width="17.0" depth="16.0"/>
   </Obstruction>
+   <ProductionQueue>
+    <Technologies datatype="tokens">
+      germans/teutoburg
+    </Technologies>
+  </ProductionQueue>
   <VisualActor>
     <Actor>structures/gauls/farmstead.xml</Actor>
   </VisualActor>
