@@ -52,8 +52,8 @@
 	"TeamBonuses":
 	[
 		{
-			"Name": "Druidic Wisdom",
-			"History": "The Druids maintained an organized religion that advanced the technology of their people even during wartime.",
+			"Name": "Proto-Germanic engineering",
+			"History": "Advanced the technology of their people even during wartime.",
 			"Description": "Allied Structures −20% technology research time."
 		}
 	],

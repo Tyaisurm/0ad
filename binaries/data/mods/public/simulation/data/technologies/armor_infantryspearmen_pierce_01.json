@@ -10,7 +10,7 @@
 	},
 	"description": "Plywood construction for large shields.",
 	"cost": { "food": 0, "wood": 50, "stone": 0, "metal": 0 },
-	"requirements": { "any": [{ "tech": "phase_town" }, { "civ": "brit" }, { "civ": "gaul" }] },
+	"requirements": { "any": [{ "tech": "phase_town" }, { "civ": "brit" }, { "civ": "gaul" }, {"civ":"ger"}] },
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "shields_generic_wood.png",
 	"researchTime": 40,
