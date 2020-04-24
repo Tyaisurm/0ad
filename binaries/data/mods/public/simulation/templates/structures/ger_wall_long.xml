@@ -25,7 +25,7 @@
   </GarrisonHolder>
   <Identity>
     <Civ>ger</Civ>
-    <SelectionGroupName>structures/gaul_wallset_stone</SelectionGroupName>
+    <SelectionGroupName>structures/ger_wallset_stone</SelectionGroupName>
     <SpecificName>Rate</SpecificName>
   </Identity>
   <Obstruction>

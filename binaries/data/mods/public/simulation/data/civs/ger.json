@@ -1,6 +1,6 @@
 {
 	"Code": "ger",
-	"Culture": "germanic",
+	"Culture": "ger",
 	"Name": "Germans",
 	"Emblem": "session/portraits/emblems/emblem_celts.png",
 	"History": "The Germans were the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
@@ -114,7 +114,7 @@
 	],
 	"SkirmishReplacements":
 	{
-		"skirmish/structures/default_house_5": "structures/{civ}_house"
+		"skirmish/structures/default_house_5": "structures/ger_house"
 	},
 	"SelectableInGameSetup": true
 }
