@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_stable">
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Eposton</SpecificName>
+    <SpecificName>Stabil</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/gauls/stable.xml</Actor>

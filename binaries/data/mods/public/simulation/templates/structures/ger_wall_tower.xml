@@ -8,7 +8,7 @@
   <GarrisonHolder disable=""/>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Uxelon</SpecificName>
+    <SpecificName>Mauerturm</SpecificName>
     <Tooltip>Does not shoot or garrison.</Tooltip>
   </Identity>
   <Obstruction>

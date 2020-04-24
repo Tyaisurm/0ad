@@ -1,0 +1,11 @@
+{
+	"genericName": "Disorganized tribes",
+	"autoResearch": true,
+	"description": "The Germans were not an organized society at this time, they were divieded into numerous small tribes",
+	"icon": "population.png",
+	"tooltip": "Germans −20% maximum population limit.",
+	"requirements": { "civ": "ger" },
+	"modifications": [
+		{ "value": "Player/MaxPopulation", "multiply": 0.8 }
+	]
+}

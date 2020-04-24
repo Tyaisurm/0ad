@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_workshop">
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Miletucerdon</SpecificName>
+    <SpecificName>Werkstatt</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/gauls/workshop.xml</Actor>

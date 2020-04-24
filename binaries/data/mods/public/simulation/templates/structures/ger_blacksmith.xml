@@ -5,7 +5,7 @@
   </Cost>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Gobanion</SpecificName>
+    <SpecificName>Schmied</SpecificName>
   </Identity>
   <VisualActor>
     <Actor>structures/gauls/blacksmith.xml</Actor>

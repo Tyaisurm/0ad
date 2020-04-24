@@ -8,7 +8,7 @@
   </Footprint>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Capanon</SpecificName>
+    <SpecificName>Lagerhaus</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="13.0" depth="15.0"/>

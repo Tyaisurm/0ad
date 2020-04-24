@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Uxelon</SpecificName>
+    <SpecificName>Verteidigungsturm</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="7.5" depth="7.5"/>

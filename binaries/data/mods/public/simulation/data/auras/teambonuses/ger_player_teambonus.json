@@ -5,6 +5,6 @@
 	"modifications": [
 		{ "value": "ProductionQueue/TechCostMultiplier/time", "multiply": 0.8 }
 	],
-	"auraName": "Druidic Wisdom",
+	"auraName": "Proto-German engineering",
 	"auraDescription": "Allied Structures −20% technology research time."
 }

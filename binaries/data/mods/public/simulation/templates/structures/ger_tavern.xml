@@ -19,7 +19,7 @@
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Tavern</GenericName>
-    <SpecificName>Taberna</SpecificName>
+    <SpecificName>Taverne</SpecificName>
     <Tooltip>Recruit Naked Fanatics.</Tooltip>
     <Icon>structures/celtic_embassy.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>

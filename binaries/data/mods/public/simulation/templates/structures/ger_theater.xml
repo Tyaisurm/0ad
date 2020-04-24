@@ -8,7 +8,7 @@
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Assembly of Princes</GenericName>
-    <SpecificName>Remogantion</SpecificName>
+    <SpecificName>Theater</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="30" depth="30"/>
