@@ -1,0 +1,120 @@
+{
+	"Code": "ger",
+	"Culture": "germanic",
+	"Name": "Germans",
+	"Emblem": "session/portraits/emblems/emblem_celts.png",
+	"History": "The Germans were the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
+	"Music":[
+			{"File":"Celtic_Pride.ogg", "Type":"peace"},
+			{"File":"Cisalpine_Gaul.ogg", "Type":"peace"},
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Water's_Edge.ogg", "Type":"peace"},
+			{"File":"Sunrise.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[
+		{
+			"Name": "Germans",
+			"Description": "The Germans of mainland Europe.",
+			"Technologies":
+			[
+				{
+					"Name": "Schlacht im Teutoburger Wald",
+					"History": "3 legions gone",
+					"Description": "A set amount of metal from every unit destroyed."
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Arminius",
+					"Class": "",
+					"Armament": "",
+					"Emblem": "",
+					"History": "<<forest>>."
+				}
+			]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name": "Ardiosmanae",
+			"History": "Represents Celtic farming methods. ",
+			"Description": "Enhanced food gained from ranching and farming. "
+		},
+		{
+			"Name": "Deas Celtica",
+			"History": "Celtic religion and druidry inspired their warlike mindset. ",
+			"Description": "Druids increase attack rates of soldiers near them slightly."
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name": "Druidic Wisdom",
+			"History": "The Druids maintained an organized religion that advanced the technology of their people even during wartime.",
+			"Description": "Allied Structures −20% technology research time."
+		}
+	],
+	"Structures":
+	[
+	],
+	"WallSets":
+	[
+		"structures/wallset_palisade",
+		"structures/ger_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/ger_civil_centre"
+		},
+		{
+			"Template": "units/gaul_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/gaul_infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/gaul_infantry_javelinist_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/gaul_cavalry_javelinist_b"
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/battle_line",
+		"special/formations/skirmish",
+		"special/formations/wedge"
+	],
+	"AINames":
+	[
+		"Viridomarus",
+		"Brennus",
+		"Cativolcus",
+		"Cingetorix",
+		"Vercingetorix",
+		"Divico",
+		"Ambiorix",
+		"Liscus",
+		"Valetiacus",
+		"Viridovix"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/structures/default_house_5": "structures/{civ}_house"
+	},
+	"SelectableInGameSetup": true
+}
