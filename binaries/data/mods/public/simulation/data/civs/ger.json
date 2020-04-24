@@ -71,19 +71,19 @@
 			"Template": "structures/ger_civil_centre"
 		},
 		{
-			"Template": "units/gaul_support_female_citizen",
+			"Template": "units/ger_support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/gaul_infantry_spearman_b",
+			"Template": "units/ger_infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/gaul_infantry_javelinist_b",
+			"Template": "units/ger_infantry_javelinist_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/gaul_cavalry_javelinist_b"
+			"Template": "units/ger_cavalry_javelinist_b"
 		}
 	],
 	"Formations":
