@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Nauson</SpecificName>
+    <SpecificName>Handelsschiff</SpecificName>
     <Icon>units/celt_ship_merchant.png</Icon>
   </Identity>
   <VisualActor>

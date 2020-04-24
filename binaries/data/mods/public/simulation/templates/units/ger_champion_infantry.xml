@@ -3,7 +3,7 @@
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Germanic Champion</GenericName>
-    <SpecificName>Soliduros</SpecificName>
+    <SpecificName>Champion infantrie</SpecificName>
     <SelectionGroupName>units/ger_champion_infantry</SelectionGroupName>
     <Icon>units/gaul_champion_infantry.png</Icon>
   </Identity>

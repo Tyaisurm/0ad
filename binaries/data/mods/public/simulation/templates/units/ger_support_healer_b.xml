@@ -7,7 +7,7 @@
     <Icon>units/celt_support_healer.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/gaul_support_healer_a</Entity>
+    <Entity>units/ger_support_healer_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/celts/healer.xml</Actor>

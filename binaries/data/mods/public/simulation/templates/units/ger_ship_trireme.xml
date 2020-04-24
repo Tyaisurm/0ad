@@ -15,7 +15,7 @@
   </Health>
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Pontos</SpecificName>
+    <SpecificName>Dreiruderer</SpecificName>
     <Icon>units/celt_ship_trireme.png</Icon>
   </Identity>
   <UnitMotion>

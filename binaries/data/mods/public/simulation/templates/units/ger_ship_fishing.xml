@@ -2,7 +2,7 @@
 <Entity parent="template_unit_ship_fishing">
   <Identity>
     <Civ>ger</Civ>
-    <SpecificName>Longos</SpecificName>
+    <SpecificName>Fischereifahrzeug</SpecificName>
     <Icon>units/celt_ship_fishing.png</Icon>
   </Identity>
   <VisualActor>

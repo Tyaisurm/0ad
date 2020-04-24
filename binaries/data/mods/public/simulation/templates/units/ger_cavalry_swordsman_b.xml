@@ -3,7 +3,7 @@
   <Identity>
     <Civ>ger</Civ>
     <SelectionGroupName>units/ger_cavalry_swordsman_b</SelectionGroupName>
-    <SpecificName>Eporedos</SpecificName>
+    <SpecificName>Kavallerie</SpecificName>
     <GenericName>German Cavalry</GenericName>
     <Icon>units/brit_cavalry_swordsman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>

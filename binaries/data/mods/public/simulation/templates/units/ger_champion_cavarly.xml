@@ -8,7 +8,7 @@
     <Civ>ger</Civ>
     <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
     <GenericName>Chariot</GenericName>
-    <SpecificName>Essedon</SpecificName>
+    <SpecificName>Streitwagen</SpecificName>
     <SelectionGroupName>units/brit_champion_chariot</SelectionGroupName>
     <Icon>units/brit_champion_chariot.png</Icon>
   </Identity>

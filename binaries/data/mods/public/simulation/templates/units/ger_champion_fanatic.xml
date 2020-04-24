@@ -14,7 +14,7 @@
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Naked Fanatic</GenericName>
-    <SpecificName>Bariogaisatos</SpecificName>
+    <SpecificName>Nackter Fanatiker</SpecificName>
     <Icon>units/gaul_champion_fanatic.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
