@@ -6,9 +6,11 @@
 		{ "value": "Attack/Capture/Capture", "add": 2 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.3 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.3 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.3 }
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.3 },
+		{ "value": "Attack/Melee/MaxRange", "multiply": 1.1 },
+		{ "value": "Attack/Ranged/MaxRange", "multiply": 1.1 }
 	],
 	"auraName": "Germanic Warlord",
-	"auraDescription": "Soldiers +2 capture attack strength, +30% melee attack damage.",
+	"auraDescription": "Soldiers +2 capture attack strength, +30% melee attack damage and +10% attack range.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
