@@ -3,12 +3,15 @@
   <Builder>
     <Entities datatype="tokens">
       structures/ger_rotarymill
+      structures/wallset_palisade
+      structures/{civ}_defense_tower
+      structures/{civ}_sentry_tower
     </Entities>
   </Builder>
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Germanic Woman</GenericName>
-    <SpecificName>Bena</SpecificName>
+    <SpecificName>Frau</SpecificName>
     <Icon>units/celt_support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
