@@ -13,6 +13,6 @@
     <Icon>units/brit_champion_chariot.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/britons/chariot_javelinist_c_m.xml</Actor>
+    <Actor>units/germans/chariot_javelinist_c_m.xml</Actor>
   </VisualActor>
 </Entity>

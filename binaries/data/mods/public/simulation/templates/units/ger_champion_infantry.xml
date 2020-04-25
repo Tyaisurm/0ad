@@ -8,6 +8,6 @@
     <Icon>units/gaul_champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/gauls/infantry_swordsman_c.xml</Actor>
+    <Actor>units/germans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>

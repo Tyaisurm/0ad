@@ -21,7 +21,7 @@
 				{
 					"Name": "Schlacht im Teutoburger Wald",
 					"History": "The Germans employed successful hit and run tactics against the Romans. Result: 3 legions gone",
-					"Description": "Infantry movement speed +10%."
+					"Description": "Unit movement speed +10%."
 				}
 			],
 			"Heroes":

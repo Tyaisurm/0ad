@@ -9,13 +9,13 @@
   <Identity>
     <Civ>ger</Civ>
     <SelectionGroupName>units/ger_infantry_javelinist_b</SelectionGroupName>
-    <SpecificName>Adretos</SpecificName>
+    <SpecificName>Scharmutzler</SpecificName>
     <Icon>units/gaul_infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/ger_infantry_javelinist_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/gauls/infantry_javelinist_b.xml</Actor>
+    <Actor>units/germans/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

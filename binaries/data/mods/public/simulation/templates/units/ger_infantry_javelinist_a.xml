@@ -7,6 +7,6 @@
     <Entity>units/ger_infantry_javelinist_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/gauls/infantry_javelinist_a.xml</Actor>
+    <Actor>units/germans/infantry_javelinist_a.xml</Actor>
   </VisualActor>
 </Entity>

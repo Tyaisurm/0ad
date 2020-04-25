@@ -22,6 +22,6 @@
     <WalkSpeed op="mul">1.4</WalkSpeed>
   </UnitMotion>
   <VisualActor>
-    <Actor>units/gauls/infantry_spearman_c.xml</Actor>
+    <Actor>units/germans/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>
