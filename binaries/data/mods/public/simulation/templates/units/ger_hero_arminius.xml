@@ -6,10 +6,10 @@
   <Identity>
     <Civ>ger</Civ>
     <GenericName>Arminius</GenericName>
-    <SpecificName>Arminius</SpecificName>
-    <Icon>units/gaul_hero_viridomarus.png</Icon>
+    <SpecificName>Hermann</SpecificName>
+    <Icon>units/ger_hero_arminius.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/germans/hero_infantry_spearman_viridomarus.xml</Actor>
+    <Actor>units/germans/hero_infantry_swordsman_arminius.xml</Actor>
   </VisualActor>
 </Entity>

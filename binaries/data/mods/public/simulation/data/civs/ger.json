@@ -1,9 +1,9 @@
 {
 	"Code": "ger",
-	"Culture": "ger",
-	"Name": "Germans",
+	"Culture": "Germanic",
+	"Name": "Cherusci",
 	"Emblem": "session/portraits/emblems/emblem_ger_alt.png",
-	"History": "The Germans were the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
+	"History": "The Cherusci were one of the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
 	"Music":[
 			{"File":"Celtic_Pride.ogg", "Type":"peace"},
 			{"File":"Cisalpine_Gaul.ogg", "Type":"peace"},
@@ -39,14 +39,14 @@
 	"CivBonuses":
 	[
 		{
-			"Name": "Ardiosmanae",
-			"History": "Represents Celtic farming methods. ",
-			"Description": "Enhanced food gained from ranching and farming. "
+			"Name": "Wooden Construction",
+			"History": "Represents Germanic buildings. ",
+			"Description": "Structures −20% build time, −20% health, and −20% capture points. "
 		},
 		{
-			"Name": "Deas Celtica",
-			"History": "Celtic religion and druidry inspired their warlike mindset. ",
-			"Description": "Druids increase attack rates of soldiers near them slightly."
+			"Name": "Disorganized tribes",
+			"History": "The Germans were not an organized society at this time, they were divieded into numerous small tribes. ",
+			"Description": "−20% maximum population limit."
 		}
 	],
 	"TeamBonuses":
@@ -81,6 +81,10 @@
 		{
 			"Template": "units/ger_infantry_javelinist_b",
 			"Count": 2
+		},
+		{
+			"Template": "units/ger_hero_arminius",
+			"Count": 1
 		},
 		{
 			"Template": "units/ger_cavalry_javelinist_b"
