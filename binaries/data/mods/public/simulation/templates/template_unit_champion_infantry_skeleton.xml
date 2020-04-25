@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_skeleton">
+  <Armour>
+    <Hack op="add">3</Hack>
+    <Pierce op="add">3</Pierce>
+  </Armour>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack>0.1</Hack>
+        <Pierce>0.2</Pierce>
+        <Crush>0.3</Crush>
+      </Damage>
+      <MaxRange>3.5</MaxRange>
+      <PrepareTime>375</PrepareTime>
+      <RepeatTime>750</RepeatTime>
+      <PreferredClasses datatype="tokens">Human Siege</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>7</wood>
+      <metal>20</metal>
+      <food>10</food>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>20</Max>
+  </Health>
+  <Identity>
+    <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
+    <GenericName>Champion Skeleton</GenericName>
+    <Formations datatype="tokens">
+      special/formations/testudo
+    </Formations>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
+  </UnitMotion>
+</Entity>
