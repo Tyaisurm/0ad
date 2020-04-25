@@ -22,6 +22,6 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/gauls/civic_centre.xml</Actor>
+    <Actor>structures/germans/civic_centre.xml</Actor>
   </VisualActor>
 </Entity>

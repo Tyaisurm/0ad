@@ -5,6 +5,6 @@
     <SpecificName>Haus</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/gauls/house.xml</Actor>
+    <Actor>structures/germans/house.xml</Actor>
   </VisualActor>
 </Entity>

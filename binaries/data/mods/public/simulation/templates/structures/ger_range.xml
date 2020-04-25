@@ -11,6 +11,6 @@
     <Static width="26.0" depth="24.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/gauls/range.xml</Actor>
+    <Actor>structures/germans/range.xml</Actor>
   </VisualActor>
 </Entity>

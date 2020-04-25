@@ -5,6 +5,6 @@
     <SpecificName>Werkstatt</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/gauls/workshop.xml</Actor>
+    <Actor>structures/germans/workshop.xml</Actor>
   </VisualActor>
 </Entity>

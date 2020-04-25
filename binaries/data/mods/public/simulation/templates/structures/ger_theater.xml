@@ -14,7 +14,7 @@
     <Static width="30" depth="30"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/gauls/theater.xml</Actor>
+    <Actor>structures/germans/theater.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

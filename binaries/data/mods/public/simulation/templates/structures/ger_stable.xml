@@ -5,7 +5,7 @@
     <SpecificName>Stabil</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/gauls/stable.xml</Actor>
+    <Actor>structures/germans/stable.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

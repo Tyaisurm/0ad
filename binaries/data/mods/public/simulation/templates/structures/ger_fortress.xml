@@ -21,7 +21,7 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>structures/gauls/fortress.xml</Actor>
+    <Actor>structures/germans/fortress.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>16.8</Length>

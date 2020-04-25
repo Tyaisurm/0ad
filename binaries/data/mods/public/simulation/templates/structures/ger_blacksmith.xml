@@ -8,6 +8,6 @@
     <SpecificName>Schmied</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/gauls/blacksmith.xml</Actor>
+    <Actor>structures/germans/blacksmith.xml</Actor>
   </VisualActor>
 </Entity>
