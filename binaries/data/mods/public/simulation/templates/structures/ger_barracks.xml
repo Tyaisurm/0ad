@@ -30,6 +30,7 @@
     </Entities>
     <Technologies datatype="tokens">
       unlock_champion_units
+      germans/teutoburg
     </Technologies>
   </ProductionQueue>
   <VisualActor>

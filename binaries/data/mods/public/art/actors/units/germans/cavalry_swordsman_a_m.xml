@@ -23,7 +23,7 @@
     <variant file="quadraped/base_horse_run.xml"/>
     <variant file="quadraped/base_horse_gather_meat.xml" name="gather_meat">
       <props>
-        <prop actor="units/britons/cavalry_swordsman_a_r.xml" attachpoint="rider_R"/>
+        <prop actor="units/germans/cavalry_swordsman_a_r.xml" attachpoint="rider_R"/>
       </props>
     </variant>
   </group>
