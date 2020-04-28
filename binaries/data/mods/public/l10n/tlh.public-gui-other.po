@@ -3982,7 +3982,7 @@ msgstr "poH lengthened +20 qach vatlhvI' je ram wanI' qaSmoHlu'bogh."
 msgid ""
 "Persians also have access to a great number of structural and defensive "
 "technologies."
-msgstr "naw' Dun mI' structural 'ej defensive "technologies je ghaj persian."
+msgstr "naw' Dun mI' structural 'ej defensive technologies je ghaj persian."
 
 #: gui/text/tips/pikemen.txt:1
 msgid "PIKEMEN"

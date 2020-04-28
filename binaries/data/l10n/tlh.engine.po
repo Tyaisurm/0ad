@@ -130,7 +130,8 @@ msgstr "lulIjbe'lu'bogh pat"
 msgid ""
 "The server's certificate could not be verified or the TLS handshake did not "
 "complete successfully"
-msgstr "laH wej yI'ol jabwI' certificate pagh successfully wej naQ tls "
+msgstr ""
+"laH wej yI'ol jabwI' certificate pagh successfully wej naQ tls "
 "handshake"
 
 #: lobby/XmppClient.cpp:1258
