@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion">
+  <Armour>
+    <Hack>20</Hack>
+    <Pierce>100</Pierce>
+    <Crush>20</Crush>
+  </Armour>
+  <Cost>
+    <BuildTime>1</BuildTime>
+    <Resources>
+      <food>0</food>
+      <wood>0</wood>
+      <stone>10</stone>
+      <metal>200</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>1</Max>
+  </Health>
+  <Identity>
+    <VisibleClasses datatype="tokens">Infantry</VisibleClasses>
+    <GenericName>Champion Skeleton</GenericName>
+  </Identity>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>arrow/128x128.png</MainTexture>
+        <MainTextureMask>arrow/128x128_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <trained>interface/alarm/alarm_create_infantry.xml</trained>
+      <select>voice/skeleton/skeleton_select.xml</select>
+      <order_walk>voice/skeleton/skeleton_walk.xml</order_walk>
+      <order_attack>voice/skeleton/skeleton_attack.xml</order_attack>
+      <order_garrison>voice/skeleton/skeleton_attack.xml</order_garrison>
+      <walk>actor/human/movement/walk.xml</walk>
+      <run>actor/human/movement/walk.xml</run>
+      <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
+      <death>voice/skeleton/skeleton_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <Vision>
+    <Range>84</Range>
+  </Vision>
+</Entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_skeleton">
+  <Identity>
+    <Civ>brit</Civ>
+    <GenericName>Brythonic Skeleton</GenericName>
+    <SpecificName>Zooom</SpecificName>
+    <Icon>units/skeleton.png</Icon>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">2.0</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/britons/infantry_swordsman_quick.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -115,6 +115,10 @@
 			"Count": 1
 		},
 		{
+			"Template": "units/brit_champion_quick",
+			"Count": 1
+		},
+		{
 			"Template": "units/brit_war_dog_e"
 		}
 	],

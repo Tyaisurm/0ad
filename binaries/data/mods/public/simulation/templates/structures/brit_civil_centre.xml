@@ -19,6 +19,7 @@
       units/{civ}_infantry_spearman_b
       units/{civ}_infantry_slinger_b
       units/{civ}_cavalry_javelinist_b
+      units/{civ}_champion_quick
     </Entities>
   </ProductionQueue>
   <VisualActor>
