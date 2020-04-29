@@ -58,6 +58,7 @@ langs = {
     'ru': 'Русский',
     'sk': 'Slovenčina',
     'sv': 'Svenska',
+    'tlh': 'Klingon',
     'tr': 'Türkçe',
     'uk': 'Українська'}
 
