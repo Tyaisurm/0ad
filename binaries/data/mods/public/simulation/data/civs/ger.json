@@ -1,0 +1,124 @@
+{
+	"Code": "ger",
+	"Culture": "Germanic",
+	"Name": "Cherusci",
+	"Emblem": "session/portraits/emblems/emblem_ger_alt.png",
+	"History": "The Cherusci were one of the Germanic tribes of continental Europe. With heavy infantry and cavalry, German warriors valiantly resisted Roman campaigns of conquest.",
+	"Music":[
+			{"File":"Celtic_Pride.ogg", "Type":"peace"},
+			{"File":"Cisalpine_Gaul.ogg", "Type":"peace"},
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Water's_Edge.ogg", "Type":"peace"},
+			{"File":"Sunrise.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[
+		{
+			"Name": "Germans",
+			"Description": "The Germanic tribes of mainland Europe.",
+			"Technologies":
+			[
+				{
+					"Name": "Schlacht im Teutoburger Wald",
+					"History": "The Germans employed successful hit and run tactics against the Romans. Result: 3 legions gone",
+					"Description": "Unit movement speed +10%."
+				}
+			],
+			"Heroes":
+			[
+				{
+					"Name": "Arminius",
+					"Class": "",
+					"Armament": "",
+					"Emblem": "",
+					"History": "In the battle of the Teutoburg Forest Arminius led an alliance of Germanic tribes to victory over the Romans. Romans lost three legions in the battle."
+				}
+			]
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name": "Wooden Construction",
+			"History": "Represents Germanic buildings. ",
+			"Description": "Structures −20% build time, −20% health, and −20% capture points. "
+		},
+		{
+			"Name": "Disorganized tribes",
+			"History": "The Germans were not an organized society at this time, they were divieded into numerous small tribes. ",
+			"Description": "−20% maximum population limit."
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name": "Proto-Germanic engineering",
+			"History": "Advanced the technology of their people even during wartime.",
+			"Description": "Allied Structures −20% technology research time."
+		}
+	],
+	"Structures":
+	[
+		{
+			"Name": "Rotary Mill",
+			"Class": "",
+			"Emblem": "",
+			"History": "",
+			"Requirements": "",
+			"Phase": "",
+			"Special": ""
+		}
+	],
+	"WallSets":
+	[
+		"structures/wallset_palisade",
+		"structures/ger_wallset_stone"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/ger_civil_centre"
+		},
+		{
+			"Template": "units/ger_support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/ger_infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/ger_infantry_javelinist_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/ger_hero_arminius",
+			"Count": 1
+		},
+		{
+			"Template": "units/ger_cavalry_javelinist_b"
+		}
+	],
+	"Formations":
+	[
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/battle_line",
+		"special/formations/skirmish",
+		"special/formations/wedge"
+	],
+	"AINames":
+	[
+		"Arminius"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/structures/default_house_5": "structures/ger_house"
+	},
+	"SelectableInGameSetup": true
+}

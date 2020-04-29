@@ -19,6 +19,9 @@
     <variant name="waypoint_celts">
       <textures><texture file="props/banner_celt.png" name="baseTex"/></textures>
     </variant>
+    <variant name="waypoint_germans">
+      <textures><texture file="props/banner_ger.png" name="baseTex"/></textures>
+    </variant>
     <variant name="waypoint_carthaginians">
       <textures><texture file="props/banner_carthage.png" name="baseTex"/></textures>
     </variant>
